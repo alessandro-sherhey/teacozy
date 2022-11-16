@@ -6,3 +6,5 @@ This is the Codecademy project you find after completing the Flexbox chapter. I 
 - Modernized design
 
 If you have any ideas on how to improve the design feel free to write them in Issues! :)
+
+Link to the actual website: https://alessandro-sherhey.github.io/teacozy/
